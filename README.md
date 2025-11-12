@@ -45,9 +45,14 @@ While reading, it’s normal to come across words you don’t know. With this pr
 ![PDF Retrieval](images/p1o.jpeg)
 
 ### 2. Word Insights (from 3 models)
-- Shows word insights using **Llama, Qwen, and OpenAI** via Groq API.  
-![Llama Model](images/llama.jpeg)  
-![Qwen Model](images/qwen.jpeg)  
+#### Llama Model
+- Shows word insights using the Llama model via Groq API.   
+![Llama Model](images/llama.jpeg)
+#### Qwen Model
+- Shows word insights using the Qwen model via Groq API.  
+![Qwen Model](images/qwen.jpeg)
+#### OpenAI Model
+- Shows word insights using the OpenAI model via Groq API.  
 ![OpenAI Model](images/openai.jpeg)
 
 ---
@@ -59,8 +64,9 @@ While reading, it’s normal to come across words you don’t know. With this pr
 ![PDF Retrieval Analysis](images/p1.jpeg)
 
 ### 2. Word Insights
-- Comparative insights from three models to improve reading comprehension.  
-![Word Insights Analysis 1](images/p2r1.jpeg)  
+- Model Wise Average Information Quality Metrics
+![Word Insights Analysis 1](images/p2r1.jpeg)
+- Per Word Overall Score Comparision
 ![Word Insights Analysis 2](images/p2r2.jpeg)
 
 ---
